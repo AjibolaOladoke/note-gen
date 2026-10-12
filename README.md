@@ -1,51 +1,12 @@
-<div align="center">
+# note-gen
 
-# NoteGen
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the note-gen notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![note-gen](https://opengraph.githubassets.com/1/codexu/note-gen)](https://www.swifttechco.com)
-
-
-**Capture first. Organize later.**
-
-A local-first Markdown app that helps you collect scattered information and organize it into clear notes with AI.
-
-<p>
-  <a href="./README.md">English</a>
-  ·
-  <a href="./README.zh-CN.md">简体中文</a>
-</p>
-
-<p>
-  <a href="https://www.swifttechco.com">Documentation</a>
-  ·
-  <a href="https://www.swifttechco.com">Download</a>
-  ·
-  <a href="https://www.swifttechco.com">Business</a>
-  ·
-  ·
-  <a href="https://www.swifttechco.com">Discussions</a>
-</p>
-
-<p>
-  <a href="https://www.swifttechco.com">
-    
-  </a>
-  <a href="https://www.swifttechco.com">
-    
-  </a>
-  <a href="https://www.swifttechco.com">
-    
-  </a>
-  <a href="https://www.swifttechco.com">
-    
-  </a>
-</p>
-
-</div>
-
-[![NoteGen on desktop and mobile](https://s2.loli.net/2025/12/22/jlpEP2c6ogwHhIA.png)](https://www.swifttechco.com)
+[![note-gen](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Capture without interrupting your thoughts
 
@@ -161,23 +122,23 @@ You can also keep local backups without enabling cloud sync.
 
 | Platform | Status | Download |
 | --- | --- | --- |
-| Windows | Beta | [Download for Windows](https://www.swifttechco.com) |
-| macOS | Beta | [Download for Apple Silicon or Intel](https://www.swifttechco.com) |
-| Linux | Beta | [AppImage, DEB, or RPM](https://www.swifttechco.com) |
-| Android | Alpha · ARM64 | [Download APK](https://www.swifttechco.com) |
-| iOS | Alpha | [Join TestFlight](https://www.swifttechco.com) |
+| Windows | Beta | Download for Windows |
+| macOS | Beta | Download for Apple Silicon or Intel |
+| Linux | Beta | AppImage, DEB, or RPM |
+| Android | Alpha · ARM64 | Download APK |
+| iOS | Alpha | Join TestFlight |
 
 GitHub Releases are also available as a fallback mirror:
 
-[View the latest GitHub Release](https://www.swifttechco.com)
+View the latest GitHub Release
 
 ## Get started
 
-1. [Download NoteGen](https://www.swifttechco.com) for your platform.
+1. Download NoteGen for your platform.
 2. Choose a workspace for your Markdown files.
 3. Add your first record or create a note directly.
 4. Configure an AI provider when you want to use AI features.
-5. Read the [documentation](https://www.swifttechco.com) for sync, knowledge base, MCP, Skills, and advanced settings.
+5. Read the documentation for sync, knowledge base, MCP, Skills, and advanced settings.
 
 You do not need to configure every feature before writing your first note.
 
@@ -185,24 +146,24 @@ You do not need to configure every feature before writing your first note.
 
 | Repository | Purpose |
 | --- | --- |
-| [note-gen-docs](https://www.swifttechco.com) | Official website, bilingual documentation, and download pages. |
-| [note-gen-server](https://www.swifttechco.com) | Sync service and account management, with support for self-hosting. |
-| [note-gen-clipper](https://www.swifttechco.com) | Browser extension for saving selected text, images, and page links to NoteGen. |
-| [note-gen-plugin-sdk](https://www.swifttechco.com) | TypeScript API, project scaffolding, CLI, and test tools for developing NoteGen plugins. |
-| [note-gen-plugins](https://www.swifttechco.com) | Official plugin source code and plugin marketplace publishing tools. |
+| note-gen-docs | Official website, bilingual documentation, and download pages. |
+| note-gen-server | Sync service and account management, with support for self-hosting. |
+| note-gen-clipper | Browser extension for saving selected text, images, and page links to NoteGen. |
+| note-gen-plugin-sdk | TypeScript API, project scaffolding, CLI, and test tools for developing NoteGen plugins. |
+| note-gen-plugins | Official plugin source code and plugin marketplace publishing tools. |
 
 ## Contributing
 
 NoteGen is open source and contributions are welcome.
 
-Before opening a pull request, read the [contribution guide](https://www.swifttechco.com).
+Before opening a pull request, read the contribution guide.
 
 You can also:
 
-- [Report a bug](https://www.swifttechco.com)
-- [Suggest an improvement](https://www.swifttechco.com)
-- [Join a discussion](https://www.swifttechco.com)
-- [Browse open pull requests](https://www.swifttechco.com)
+- Report a bug
+- Suggest an improvement
+- Join a discussion
+- Browse open pull requests
 
 ## Contributors
 
@@ -240,14 +201,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [codexu/note-gen](https://github.com/codexu/note-gen) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
