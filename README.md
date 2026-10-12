@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![note-gen](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![note-gen](images/preview.png)](https://github.com/Swift-Tech-Co/note-gen)
 
 ## Capture without interrupting your thoughts
 
@@ -167,7 +167,7 @@ You can also:
 
 ## Contributors
 
-<a href="https://www.swifttechco.com">
+<a href="https://github.com/Swift-Tech-Co/note-gen">
   
 </a>
 
@@ -176,13 +176,13 @@ Thanks to everyone who has reported a problem, proposed an idea, improved a tran
 ## Recognition
 
 <p>
-  <a href="https://www.swifttechco.com">
+  <a href="https://github.com/Swift-Tech-Co/note-gen">
     
   </a>
-  <a href="https://www.swifttechco.com">
+  <a href="https://github.com/Swift-Tech-Co/note-gen">
     
   </a>
-  <a href="https://www.swifttechco.com">
+  <a href="https://github.com/Swift-Tech-Co/note-gen">
     
   </a>
 </p>
@@ -205,13 +205,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/note-gen
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [codexu/note-gen](https://github.com/codexu/note-gen) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
